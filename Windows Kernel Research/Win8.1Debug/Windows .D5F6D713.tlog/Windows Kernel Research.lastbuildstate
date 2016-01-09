@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.5:PlatformToolSet=WindowsKernelModeDriver8.1:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Win8.1 Debug|Win32|C:\Users\JC\documents\visual studio 2015\Projects\Windows Kernel Research\|
